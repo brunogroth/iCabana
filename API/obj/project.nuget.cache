@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o7kdY2k7o9OQOVr0V5ridqNjRY7K5DJxxXBuV0R7pfMtVsuqJBRwfYnsZ9Ft/02nlQXPKxOu7I0guJKFqyX1xQ==",
+  "dgSpecHash": "0ojO16TbR9HLnb/0r8rj47AdEvTKIPH8yjohJlW3R/I4gE9DIfygVFTYll1PVwVhldv9dGxLJczmvrmuXXEbHw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\c-sharp-workspace\\iCabana\\api\\API.csproj",
+  "projectFilePath": "C:\\workspace\\c-sharp-workspace\\iCabana\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

@@ -1,11 +1,11 @@
 using System;
+using Core.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using API.Models;
 
-namespace API.Data;
+namespace Infraestructure.Data;
 public class StoreContext : DbContext{
     public StoreContext(DbContextOptions<StoreContext> options) : base(options){
     }
